@@ -1,7 +1,10 @@
-img {
-    width: 200px;
+img1 {
+    width: 450px;
+    height: 270px;
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Comic Sans MS";
+    background-color: Red;
+     
 }
